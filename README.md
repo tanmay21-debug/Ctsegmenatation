@@ -1,4 +1,4 @@
-# CTSeg Starter — CPU-first 2D/3D segmentation
+# CTSegmentation — CPU-first 2D/3D segmentation
 
 A modular Python toolkit for segmenting 2D images and 3D CT volumes.
 
